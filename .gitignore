@@ -1,0 +1,6 @@
+*.o
+*.csv
+a.out
+*.exe
+*.utf8
+.DS_Store
